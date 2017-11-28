@@ -16,14 +16,11 @@ Java的基础知识
    
 *JDK(Java Development Kit) 是 Java 语言的软件开发工具包(SDK)。*
 
-> SE(J2SE)，standard edition，标准版，是我们通常用的一个版本，
-        从JDK5.0开始，改名为Java SE。
+> SE(J2SE)，standard edition，标准版，是我们通常用的一个版本，从JDK5.0开始，改名为Java SE。
         
-> EE(J2EE)，enterprise edition，企业版，使用这种JDK开发J2EE应用程序，
-         从JDK 5.0开始，改名为Java EE。 
+> EE(J2EE)，enterprise edition，企业版，使用这种JDK开发J2EE应用程序，从JDK 5.0开始，改名为Java EE。 
          
->ME(J2ME)，micro edition，主要用于移动设备、嵌入式设备上的java应用程，        
-         从JDK 5.0开始，改名为Java ME。
+> ME(J2ME)，micro edition，主要用于移动设备、嵌入式设备上的java应用程，从JDK 5.0开始，改名为Java ME。
 
    
 ### JRE （Java Runtime Environment，Java运行环境）
